@@ -2,8 +2,6 @@
 
 ## Author: Torrey Meade
 
----
-
 _This was a Codecademy Project I built to practice Version Control and the Command Line. Also it was fun to see what the cast of All That used to say, now that my kids are watching these old episodes!_
 
 ---
