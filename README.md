@@ -1,7 +1,6 @@
----
+# Vital Information + Pierre Escargot Random Message Generator
 
-Vital Information + Pierre Escargot Random Message Generator
-Author: Torrey Meade
+## Author: Torrey Meade
 
 ---
 
@@ -9,7 +8,7 @@ _This was a Codecademy Project I built to practice Version Control and the Comma
 
 ---
 
-Technologies:
+### _Technologies_:
 
 - JavaScript
 - GitHub
